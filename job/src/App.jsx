@@ -1,15 +1,15 @@
-// import React from 'react'
-// import Navbar from './Components/Navbar'
+import React from 'react'
+import Navbar from './Components/Navbar'
 
-// const App = () => {
-//   return (
-//  <div>
-//   <Navbar/>
-//   <main>
+const App = () => {
+  return (
+ <div>
+  <Navbar/>
+  <main>
     
-//   </main>
-//  </div>
-//   )
-// }
+  </main>
+ </div>
+  )
+}
 
-// export default App
+export default App
